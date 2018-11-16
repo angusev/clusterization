@@ -1,6 +1,6 @@
 Here I share two solutions for dividing into clusters problem. 
 
-First solution is based on finding minimum spanning tree: we add minimum edges back beginning by spanning tree while number of 
-clusters will get we need.
+First solution is based on finding minimum spanning tree: we are adding minimum edges back beginning by spanning tree while number of 
+clusters is less than we need.
 
-And an another one approach is greed: we remove maximum edges while current number of clusters will get we need.
+And an another one approach is greed: remove maximum edges until we haven't got number of clusters we need.
