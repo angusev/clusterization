@@ -3,5 +3,5 @@ Here I share two solutions for dividing into clusters problem.
 First solution is based on finding minimum spanning tree: we are removing maximum edges from spanning tree while 
 number of clusters is more than we need.
 
-And an another one approach is greed: we are adding back minimum edges from empty graph until we haven't got number of 
+And an another one approach is greed: we are adding back minimum edges from empty graph until we have got number of 
 clusters we want.
